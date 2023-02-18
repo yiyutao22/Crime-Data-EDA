@@ -10,3 +10,5 @@ I found Homicides Report 1980 - 2014 Dataset on kaggle and did an exploratory da
 
 **Tools**: Python, Matplotlib, seaborn, plotly.  \
 **Techniques**: 1D plot(time series line chart, bar graph, histogram, box plot), 2D plot(heatmap, seaborn bar plot, jointplot with KDE, stacked bar graph), multidimensional(radar chart) and map. I also picked up two special cases which are juvenile criminals & serial killers and tried to use visualization methods to solve the patterns within them. 
+
+**Deliverables**: [Jupyter Notebook](https://github.com/yiyutao22/Crime-Data-EDA/blob/main/I422%20Data%20Visualization/Final%20Project/Deliverables/Yiyu_Tao_I422%20Project.ipynb)
